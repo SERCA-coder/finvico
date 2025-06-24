@@ -4212,10 +4212,6 @@ input.main-search-input::placeholder {
   width: 100%;
 }
 
-.footer-version-one {
-  background: url(../../assets/img/footer/footer-version1bg.png) no-repeat center center;
-  background-size: cover;
-}
 
 @media (max-width: 1399px) {
   .footer-logov1 {
