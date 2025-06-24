@@ -770,8 +770,8 @@ footer {
   }
   .header-section .main-navbar .custom-nav .sub-menu {
     position: absolute;
-    top: 0px;
-    left: -30px;
+    top: 43px;
+    left: -15px;
     min-width: 240px;
     opacity: 0;
     width: max-content;
