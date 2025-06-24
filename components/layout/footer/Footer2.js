@@ -144,7 +144,7 @@ export default function Footer2() {
                                 © All Copyright {new Date().getFullYear()} by <Link href="/" className="theme-clr">Finvico</Link>
                             </p>
                             <Link href="/" className="footer-logov1 m-md-0 m-auto">
-                                <img src="/assets/img/logo/PF1.png" alt="Finvico" />
+                                <img src="/assets/img/logo/logo2.png" alt="Finvico" />
                             </Link>
                             <Link href="/#" className="pra-clr">
                                 Terms &amp; Conditions Privacy Policy

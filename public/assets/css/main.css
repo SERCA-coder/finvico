@@ -198,10 +198,6 @@ span {
   color: var(--black);
 }
 
-.slider-button {
-  border-top: 1px solid var(--border1);
-  border-bottom: 1px solid var(--border1);
-}
 .slider-button .cmn-next,
 .slider-button .cmn-prev {
   width: 70px;
