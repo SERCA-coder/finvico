@@ -1,3 +1,4 @@
+'use client'
 import Layout from "@/components/layout/Layout"
 import Blog1 from "@/components/sections/Blog1"
 import CaseStudy1 from "@/components/sections/CaseStudy1"
@@ -9,6 +10,7 @@ import TextSLider1 from "@/components/sections/TextSLider1"
 import TextSLider2 from "@/components/sections/TextSLider2"
 import TextSLider3 from "@/components/sections/TextSLider3"
 import Watch1 from "@/components/sections/Watch1"
+
 export default function Home() {
 
     return (
