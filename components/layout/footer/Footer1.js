@@ -205,7 +205,7 @@ export default function Footer1() {
                     </div>
                     <div className="footer-bottom-version-one d-sm-flex gap-sm-0 gap-4 d-grid align-items-center justify-content-sm-between justify-content-center bg2-clr px-xxl-7 px-6 py-xxl-6 py-xl-6 py-7 mb-xxl-10 mb-lg-9 mb-sm-8 mb-5" data-aos="zoom-in-up" data-aos-duration={1600}>
                         <Link href="/" className="footer-logov1 m-sm-0 m-auto">
-                            <img src="/assets/img/logo/PF1.png" alt="img" />
+                            <img src="/assets/img/logo/logo2.png" alt="img" />
                         </Link>
                         <Link href="/#mains" className="footer-topscroll d-center themebg">
                             <i className="fas fa-arrow-up" />
