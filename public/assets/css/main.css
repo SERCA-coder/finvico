@@ -366,6 +366,7 @@ span {
 
 .cmn-border {
   border: 1px solid #454750 !important;
+  padding: 10px;
 }
 
 .rot60 {
@@ -4860,6 +4861,7 @@ input.main-search-input::placeholder {
   backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 15px;
+  padding: 25px;
 }
 
 .animated-border {
@@ -5176,6 +5178,7 @@ input.main-search-input::placeholder {
   position: relative;
   overflow: hidden;
   animation: floatCard 1.2s;
+  margin: 10px;
 }
 .modern-faq-card:hover {
   transform: translateY(-6px) scale(1.025);
