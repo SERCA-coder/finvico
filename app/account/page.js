@@ -117,9 +117,9 @@ export default function Service() {
                                                 </li>
                                             ))}
                                             <li className ="pdg">
-                                            "All trading is initially in a simulated environment.Funded accounts follow real capital allocation procedures based on compliance and internal policies."
+                                            All trading is initially in a simulated environment.Funded accounts follow real capital allocation procedures based on compliance and internal policies.
                                             </li>
-                                            <div id='signNow'><button>Launch Your Investment</button></div>
+                                            <li id='signNow'><button>Launch Your Investment</button></li>
                                             
                                         </ul>
                                     </div>
