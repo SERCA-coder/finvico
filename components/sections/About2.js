@@ -9,7 +9,7 @@ export default function About2() {
     return (
         <>
 
-            <section className="about-product about-section-version3 pb-20" style="background-color: #d4f2fd">
+            <section className="about-product about-section-version3 pb-20">
                 <div className="container position-relative">
                     <div className="row gy-lg-0 gy-7 justify-content-between">
                         <div className="col-lg-6">
