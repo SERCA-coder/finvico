@@ -32,7 +32,11 @@ export default function VideoPopup({ style }) {
                 <img src="/assets/img/element/watch-ciricle01.png" alt="img" className="circle" />
             </a>
             }
-            <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="JI-1QHgqpu0" onClose={() => setOpen(false)} />
+            <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="7ZZd8Z6xg3s" onClose={() => setOpen(false)}
+            youtube={{
+                controls: 0,
+                autoplay: 1
+            }} />
         </>
     )
 }

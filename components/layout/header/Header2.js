@@ -38,9 +38,6 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, isSide
                                                 </clipPath>
                                             </defs>
                                         </svg>
-                                        <span className="stext">
-                                            +208-555-0112
-                                        </span>
                                     </Link>
                                     <div className="remove-click remove-clickbg-adding d-center m-auto" onClick={handleSidebar}>
                                         <i className="fas fa-bars" />

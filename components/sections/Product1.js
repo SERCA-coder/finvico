@@ -16,24 +16,20 @@ export default function Product1() {
                                     <div className="radius-btn text-uppercase cmn-border d-inline-flex radius100 py-xxl-2 py-2 px-xxl-4 px-4 theme-clr gap-xxl-4 gap-3 mb-xxl-7 mb-xl-6 mb-5" data-aos="fade-up-right" data-aos-duration={1500}>
                                         OUR CREDENTIALS
                                     </div>
-                                    <h2 className="stitle mb-xxl-8 mb-xl-7 mb-xl-5 mb-4" data-aos="fade-up" data-aos-duration={1600}>
-                                        Trusted <span className="fw-400 theme-clr">Financial Partner</span>
-                                    </h2>
                                     <p className="white-clr mb-xxl-9 mb-xl-7 mb-xl-6 mb-6" data-aos="fade-up" data-aos-duration={1900}>
-                                        With over 18 years of experience in the financial markets, we have established ourselves 
-                                        as a trusted partner for institutional and private clients. Our expertise spans across 
-                                        emerging markets and global capital markets, providing sophisticated financial solutions.
+                                        This platform is designed for independent traders looking to access larger capital through structured evaluation.
+There are no unrealistic promises — just clear terms, transparent rules, and the potential to earn based on performance.
                                     </p>
                                     <div className="discover-dating" data-aos="fade-up" data-aos-duration={2200}>
                                         <div className="allyear d-flex align-items-center justify-content-between mb-xxl-4 mb-xl-3">
                                             <h5 className="fw-medium theme-clr">
-                                                2006
-                                            </h5>
-                                            <h5 className="fw-medium theme-clr">
-                                                2015
+                                                2023
                                             </h5>
                                             <h5 className="fw-medium theme-clr">
                                                 2024
+                                            </h5>
+                                            <h5 className="fw-medium theme-clr">
+                                                2025
                                             </h5>
                                         </div>
                                         <div className="allyear-content d-flex justify-content-between">

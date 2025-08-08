@@ -5,7 +5,7 @@ import CaseStudy1 from "@/components/sections/CaseStudy1"
 import Hero1 from "@/components/sections/Hero1"
 import Product1 from "@/components/sections/Product1"
 import Service1 from "@/components/sections/Service1"
-import Testimonial1 from "@/components/sections/Testimonial1"
+/*import Testimonial1 from "@/components/sections/Testimonial1"*/
 import TextSLider1 from "@/components/sections/TextSLider1"
 import TextSLider2 from "@/components/sections/TextSLider2"
 import TextSLider3 from "@/components/sections/TextSLider3"
@@ -26,7 +26,6 @@ export default function Home() {
                     <CaseStudy1 />
                     <Watch1 />
                     <TextSLider2 />
-                    <Testimonial1 />
                     <Blog1 />
                     <TextSLider3 />
                 </div>

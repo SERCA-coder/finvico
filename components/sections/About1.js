@@ -8,7 +8,7 @@ export default function About1() {
     return (
         <>
 
-            <section className="about-product pt-space pb-20">
+            <section className="about-product pt-space pb-20" style="background-color: #d4f2fd">
                 <div className="container">
                     <div className="row g-xxl-7 g-lg-5 g-7">
                         <div className="col-lg-6">

@@ -14,16 +14,16 @@ export default function CaseStudy1() {
                                 </div>
                                 <div className="blog-cont">
                                     <div className="d-flex align-items-center gap-xxl-5 gap-xl-4 gap-3 mb-xxl-5 mb-xl-4 mb-3">
-                                        <Link href="/investment-products/fixed-income" className="radius-btn cmn-border radius100 py-xxl-2 py-2 px-xxl-4 px-3 theme-clr style-2">
-                                            Fixed Income
+                                        <Link href="/account" className="radius-btn cmn-border radius100 py-xxl-2 py-2 px-xxl-4 px-3 theme-clr style-2">
+                                            Account Options
                                             <span className="rot60 d-inline-block ml-10">
                                                 <i className="fas fa-arrow-up theme-clr" />
                                             </span>
                                         </Link>
                                     </div>
                                     <h5>
-                                        <Link href="/" className="white-clr d-flex align-items-center justify-content-between gap-3">
-                                            Emerging Market Eurobond Portfolio Strategy
+                                        <Link href="/account" className="white-clr d-flex align-items-center justify-content-between gap-3">
+                                            Funding Plan Options
                                             <span className="rot60">
                                                 <i className="fas fa-arrow-up theme-clr" />
                                             </span>
@@ -39,16 +39,16 @@ export default function CaseStudy1() {
                                 </div>
                                 <div className="blog-cont">
                                     <div className="d-flex align-items-center gap-xxl-5 gap-xl-4 gap-3 mb-xxl-5 mb-xl-4 mb-3">
-                                        <Link href="/" className="radius-btn cmn-border radius100 py-xxl-2 py-2 px-xxl-4 px-3 theme-clr style-2">
-                                            Asset Management
+                                        <Link href="/how-it-works/choose-account" className="radius-btn cmn-border radius100 py-xxl-2 py-2 px-xxl-4 px-3 theme-clr style-2">
+                                            How it Works
                                             <span className="rot60 d-inline-block ml-10">
                                                 <i className="fas fa-arrow-up theme-clr" />
                                             </span>
                                         </Link>
                                     </div>
                                     <h5>
-                                        <Link href="/" className="white-clr d-flex align-items-center justify-content-between gap-3">
-                                            Institutional Portfolio Optimization Success
+                                        <Link href="/how-it-works/choose-account" className="white-clr d-flex align-items-center justify-content-between gap-3">
+                                            Step-by-Step Guide
                                             <span className="rot60">
                                                 <i className="fas fa-arrow-up theme-clr" />
                                             </span>

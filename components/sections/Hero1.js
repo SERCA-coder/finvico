@@ -12,13 +12,13 @@ export default function Hero1() {
                             <div className="d-flex align-items-sm-center align-items-end justify-content-between">
                                 <h1 className="white-clr text-uppercase">
                                     <span className="d-block" data-aos="zoom-in-left" data-aos-duration={1800}>
-                                        Professional Portfolio
+                                        A straightforward funded trading option
                                     </span>
                                     <span>
                                         <span className="text-italic me-3" data-aos="zoom-in-right" data-aos-duration={2100}>
-                                            Management 
+                                            with real risk 
                                         </span>
-                                        <span className="designers" data-text="Solutions" data-aos="zoom-in" data-aos-duration={2000}>Solutions</span>
+                                        <span className="designers" data-text="Managment" data-aos="zoom-in" data-aos-duration={2000}>Managment</span>
                                     </span>
                                 </h1>
                                 <VideoPopup style={1}/>
@@ -37,7 +37,7 @@ export default function Hero1() {
                                 </div>
                                 <div className="brandin-wrap d-block">
                                     <h4 className="white-clr brading-text">
-                                        500+ Clients Trust Our Expertise
+                                        
                                     </h4>
                                 </div>
                             </div>
@@ -52,19 +52,13 @@ export default function Hero1() {
                     <div className="expri-content d-flex align-items-center gap-xxl-11 gap-xl-9 gap-lg-7 gap-6">
                         <div className="expri-cont-item">
                             <h6 className="white-clr mb-2">
-                                18+
+                                Funded accounts. Real risk control.
                             </h6>
-                            <span className="yer spantext-clr">
-                                years of experience
-                            </span>
                         </div>
                         <div className="expri-cont-item">
                             <h6 className="white-clr mb-2">
-                                $2.5B+
+                                Your strategy. Our capital. Shared profits.
                             </h6>
-                            <span className="yer spantext-clr">
-                                assets under management
-                            </span>
                         </div>
                     </div>
                 </div>

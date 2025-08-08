@@ -9,13 +9,10 @@ export default function Blog1() {
                     <div className="d-flex align-items-center justify-content-between flex-wrap gap-5 mb-xxl-15 mb-xl-12 mb-lg-10 mb-md-10 mb-sm-10 mb-9">
                         <div className="pricing-title">
                             <div className="radius-btn text-uppercase cmn-border d-inline-flex radius100 py-xxl-2 py-2 px-xxl-4 px-4 theme-clr gap-xxl-4 gap-3 mb-xxl-8 mb-xl-6 mb-5">
-                                MARKET INSIGHTS
+                                How it works
                             </div>
                             <h2 className="stitle">
-                                Latest <span className="fw-400">Investment</span>
-                                <span className="d-block fw-semibold">
-                                    Market Analysis
-                                </span>
+                                How <span className="fw-400">It Works</span>
                             </h2>
                         </div>
                     
@@ -28,19 +25,16 @@ export default function Blog1() {
                                 </div>
                                 <div className="blog-cont">
                                     <div className="d-flex align-items-center gap-xxl-5 gap-xl-4 gap-3 mb-xxl-5 mb-xl-4 mb-3">
-                                        <Link href="/investment-products/fixed-income" className="radius-btn cmn-border radius100 py-xxl-1 py-1 px-xxl-4 px-3 theme-clr style-2">
-                                            Fixed Income
+                                        <Link href="/how-it-works/choose-account" className="radius-btn cmn-border radius100 py-xxl-1 py-1 px-xxl-4 px-3 theme-clr style-2">
+                                            Choose an account
                                             <span className="rot60 d-inline-block ml-10">
                                                 <i className="fas fa-arrow-up theme-clr" />
                                             </span>
                                         </Link>
-                                        <span className="bspan-clr">
-                                            MARCH 24, 2024
-                                        </span>
                                     </div>
                                     <h5>
-                                        <Link href="/blog-details" className="white-clr">
-                                            Emerging Market Eurobonds: Opportunities in 2024
+                                        <Link href="/how-it-works/evaluation" className="white-clr">
+                                            Evaluation Account Options
                                         </Link>
                                     </h5>
                                 </div>
@@ -53,19 +47,16 @@ export default function Blog1() {
                                 </div>
                                 <div className="blog-cont">
                                     <div className="d-flex align-items-center gap-xxl-5 gap-xl-4 gap-3 mb-xxl-5 mb-xl-4 mb-3">
-                                        <Link href="/resources/investment-strategies" className="radius-btn cmn-border radius100 py-xxl-1 py-1 px-xxl-4 px-3 theme-clr style-2">
-                                            Portfolio Strategy
+                                        <Link href="/how-it-works/evaluation" className="radius-btn cmn-border radius100 py-xxl-1 py-1 px-xxl-4 px-3 theme-clr style-2">
+                                            Pass Evaluation
                                             <span className="rot60 d-inline-block ml-10">
                                                 <i className="fas fa-arrow-up theme-clr" />
                                             </span>
                                         </Link>
-                                        <span className="bspan-clr">
-                                            MARCH 24, 2024
-                                        </span>
                                     </div>
                                     <h5>
-                                        <Link href="/resources/market-insights" className="white-clr">
-                                            Risk Management Strategies for Institutional Investors
+                                        <Link href="/how-it-works/earnPayouts" className="white-clr">
+                                            Follow the Rules, Hit the Target
                                         </Link>
                                     </h5>
                                 </div>
@@ -79,18 +70,15 @@ export default function Blog1() {
                                 <div className="blog-cont">
                                     <div className="d-flex align-items-center gap-xxl-5 gap-xl-4 gap-3 mb-xxl-5 mb-xl-4 mb-3">
                                         <Link href="/resources/market-insights" className="radius-btn cmn-border radius100 py-xxl-1 py-1 px-xxl-4 px-3 theme-clr style-2">
-                                            Market Analysis
+                                           Earn Payouts
                                             <span className="rot60 d-inline-block ml-10">
                                                 <i className="fas fa-arrow-up theme-clr" />
                                             </span>
                                         </Link>
-                                        <span className="bspan-clr">
-                                            MARCH 24, 2024
-                                        </span>
                                     </div>
                                     <h5>
                                         <Link href="/blog-details" className="white-clr">
-                                            Global Market Trends: What's Driving Investment Flows
+                                           Withdraw Profits from Funded Trading
                                         </Link>
                                     </h5>
                                 </div>

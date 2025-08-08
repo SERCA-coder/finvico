@@ -18,11 +18,11 @@ export default function Service1() {
                                 OUR SERVICES
                             </div>
                             <h2 className="stitle">
-                                Professional <span className="fw-400">portfolio management</span> solutions
+                                Structured evaluation-based <span className="fw-400">funding for retail</span> traders
                             </h2>
                         </div>
-                        <Link href="/service" className="radius-btn d-inline-flex radius100 py-xxl-2 py-2 px-xxl-5 px-5 theme-border theme-clr gap-xxl-4 gap-3 mb-xxl-8 mb-xl-6 mb-5 style-2">
-                            View All Services
+                        <Link href="/account" className="radius-btn d-inline-flex radius100 py-xxl-2 py-2 px-xxl-5 px-5 theme-border theme-clr gap-xxl-4 gap-3 mb-xxl-8 mb-xl-6 mb-5 style-2">
+                            View Account Options
                             <span className="rot60 d-inline-block">
                                 <i className="fas fa-arrow-up theme-clr" />
                             </span>
@@ -42,26 +42,27 @@ export default function Service1() {
                                                 </span>
                                             </span>
                                             <span className="mtitle d-block mt-6">
-                                                    Asset Management
+                                                    Funded Trading Accounts
                                             </span>
                                             <span className="pras mt-xxl-7 mt-xl-5 mt-4 d-block">
-                                                Professional portfolio management services tailored to your investment goals. 
-                                                We provide comprehensive asset allocation strategies and ongoing portfolio optimization.
+                                                Access company-provided capital by passing our evaluation. No management of client assets — just performance-based opportunities for independent traders.
                                             </span>
                                         </div>
                                         <div className="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
                                             <ul className="modern-list d-grid gap-2">
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> Portfolio Construction
+                                                    <i className="fas fa-chevron-right" /> Evaluation-Based Access
+
                                                 </li>
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> Risk Management
+                                                    <i className="fas fa-chevron-right" /> Capital Allocation
+
                                                 </li>
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> Performance Monitoring
+                                                    <i className="fas fa-chevron-right" /> Drawdown Protection
                                                 </li>
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> Rebalancing Services
+                                                    <i className="fas fa-chevron-right" /> Payout Tracking
                                                 </li>
                                             </ul>
                                             <div className="tab-remove-thumb">
@@ -82,26 +83,26 @@ export default function Service1() {
                                                 </span>
                                             </span>
                                             <span className="mtitle d-block mt-6">
-                                                    Custody & Clearing
+                                                    Funded Account Access
+
                                             </span>
                                             <span className="pras mt-xxl-7 mt-xl-5 mt-4 d-block">
-                                                Secure custody services with comprehensive clearing and settlement solutions. 
-                                                We ensure the safekeeping of your assets with institutional-grade security.
+                                               Get access to company-backed capital through a structured, rule-based evaluation. All trading is initially performed in a simulated environment with real-time market conditions.
                                             </span>
                                         </div>
                                         <div className="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
                                             <ul className="modern-list d-grid gap-2">
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> Asset Safekeeping
+                                                    <i className="fas fa-chevron-right" /> Simulated Trading Environment
                                                 </li>
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> Trade Settlement
+                                                    <i className="fas fa-chevron-right" /> Rule-Based Evaluation
                                                 </li>
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> Corporate Actions
+                                                    <i className="fas fa-chevron-right" /> Compliance-Based Funded Accounts
                                                 </li>
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> Reporting Services
+                                                    <i className="fas fa-chevron-right" /> Transparent Payout Process
                                                 </li>
                                             </ul>
                                             <div className="tab-remove-thumb">
@@ -122,26 +123,25 @@ export default function Service1() {
                                                 </span>
                                             </span>
                                             <span className="mtitle d-block mt-6">
-                                                    Brokerage Services
+                                                    Trader-Focused Access
                                             </span>
                                             <span className="pras mt-xxl-7 mt-xl-5 mt-4 d-block">
-                                                Access to global markets with competitive execution and comprehensive trading solutions. 
-                                                We provide liquidity across multiple asset classes and jurisdictions.
+                                                We provide funded account opportunities for skilled traders using real market data. All trading begins in a simulated environment, with structured risk parameters and performance-based progression.
                                             </span>
                                         </div>
                                         <div className="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
                                             <ul className="modern-list d-grid gap-2">
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> Fixed Income Trading
+                                                    <i className="fas fa-chevron-right" /> Live Market Data
                                                 </li>
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> Equity Execution
+                                                    <i className="fas fa-chevron-right" /> Trading Evaluation
                                                 </li>
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> FX Trading
+                                                    <i className="fas fa-chevron-right" /> Payout Eligibility
                                                 </li>
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> Derivatives
+                                                    <i className="fas fa-chevron-right" /> Capital Allocation
                                                 </li>
                                             </ul>
                                             <div className="tab-remove-thumb">
@@ -162,30 +162,29 @@ export default function Service1() {
                                                 </span>
                                             </span>
                                             <span className="mtitle d-block mt-6">
-                                                    Underwriting
+                                                    Trader Evaluation Program
                                             </span>
                                             <span className="pras mt-xxl-7 mt-xl-5 mt-4 d-block">
-                                                Capital markets expertise with comprehensive underwriting services for debt and equity offerings. 
-                                                We help issuers access capital markets efficiently.
+                                                Our structured evaluation gives traders the opportunity to qualify for company-funded accounts. There’s no need to raise capital or manage outside investments — just focus on consistent, disciplined trading.
                                             </span>
                                         </div>
                                         <div className="images-remove-area d-lg-flex d-none align-items-center gap-xxl-8 gap-4">
                                             <ul className="modern-list d-grid gap-2">
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> Debt Underwriting
+                                                    <i className="fas fa-chevron-right" /> Clear Rules
                                                 </li>
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> Equity Offerings
+                                                    <i className="fas fa-chevron-right" /> No Capital Needed
                                                 </li>
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> Structured Products
+                                                    <i className="fas fa-chevron-right" /> Pass to Get Funded
                                                 </li>
                                                 <li className="d-flex align-items-center gap-2">
-                                                    <i className="fas fa-chevron-right" /> Advisory Services
+                                                    <i className="fas fa-chevron-right" /> Trade with Confidence
                                                 </li>
                                             </ul>
                                             <div className="tab-remove-thumb">
-                                                <img src="/assets/img/service/tab4.png" alt="img"  style={{ width: '100%', height: 'auto', maxWidth: '350px' }}/>
+                                                <img src="/assets/img/service/tab2.jpg" alt="img"  style={{ width: '100%', height: 'auto', maxWidth: '350px' }}/>
                                             </div>
                                         </div>
                                     </div>
