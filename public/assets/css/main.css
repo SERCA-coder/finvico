@@ -4984,7 +4984,7 @@ input.main-search-input::placeholder {
   transition: transform 0.25s cubic-bezier(.4,2,.6,1), box-shadow 0.25s cubic-bezier(.4,2,.6,1);
   position: relative;
   overflow: hidden;
-  min-height: 420px;
+  min-height: 639px;
   display: flex;
   flex-direction: column;
 }
