@@ -5027,7 +5027,7 @@ input.main-search-input::placeholder {
   list-style: none;
 }
 .modern-service-card .modern-list-v2 li {
-  color: var(--pra-clr);
+  color: #555151;
   font-size: 0.98rem;
   margin-bottom: 0.4rem;
   display: flex;

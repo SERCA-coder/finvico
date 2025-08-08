@@ -116,7 +116,7 @@ export default function Service() {
                                                     <i className="fas fa-check-circle theme-clr"></i> {feature}
                                                 </li>
                                             ))}
-                                            <li class="pdg">
+                                            <li className ="pdg">
                                             "All trading is initially in a simulated environment.Funded accounts follow real capital allocation procedures based on compliance and internal policies."
                                             </li>
                                             <div id='signNow'><button>Launch Your Investment</button></div>
