@@ -2,7 +2,7 @@ export default function About3() {
     return (
         <>
 
-            <section className="pt-space pb-space section-bg" style="background-color: #d4f2fd !important">
+            <section className="pt-space pb-space section-bg" >
                 <div className="container">
                     <div className="row g-6 justify-content-between">
                         <div className="col-lg-6 pe-lg-14">
