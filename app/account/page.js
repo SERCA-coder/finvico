@@ -116,10 +116,10 @@ export default function Service() {
                                                     <i className="fas fa-check-circle theme-clr"></i> {feature}
                                                 </li>
                                             ))}
-                                            <li className ="pdg">
+                                            <li className ="d-flex align-items-center gap-2 pdg">
                                             All trading is initially in a simulated environment.Funded accounts follow real capital allocation procedures based on compliance and internal policies.
                                             </li>
-                                            <li id='signNow'><button>Launch Your Investment</button></li>
+                                            <li className ="d-flex align-items-center gap-2" id="signNow"><button>Launch Your Investment</button></li>
                                             
                                         </ul>
                                     </div>
