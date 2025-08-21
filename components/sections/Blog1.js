@@ -26,7 +26,7 @@ export default function Blog1() {
                                 <div className="blog-cont">
                                     <div className="d-flex align-items-center gap-xxl-5 gap-xl-4 gap-3 mb-xxl-5 mb-xl-4 mb-3">
                                         <Link href="/how-it-works/choose-account" className="radius-btn cmn-border radius100 py-xxl-1 py-1 px-xxl-4 px-3 theme-clr style-2">
-                                            Choose an account
+                                            Grant Capital Access
                                             <span className="rot60 d-inline-block ml-10">
                                                 <i className="fas fa-arrow-up theme-clr" />
                                             </span>

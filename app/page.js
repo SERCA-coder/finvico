@@ -23,9 +23,8 @@ export default function Home() {
                     <Product1 />
                     <Service1 />
                     <TextSLider1 />
-                    <CaseStudy1 />
-                    <Watch1 />
-                    <TextSLider2 />
+                    {/*<Watch1 />*/}
+                    
                     <Blog1 />
                     <TextSLider3 />
                 </div>

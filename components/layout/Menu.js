@@ -44,17 +44,12 @@ export default function Menu() {
         </Link>
     </li>
     <li className="menu-item position-relative">
-        <Link href="/account" className="fw_500 white-clr">
-            Account Options
-        </Link>
-    </li>
-    <li className="menu-item position-relative">
         <a href="#0" className="position-relative ps-5 fw_500 white-clr cus-z1">
             How It Works
         </a>
         <ul className="sub-menu px-lg-4 py-xxl-3 py-2">
             <li className="menu-link py-1">
-                <Link href="/how-it-works/choose-account" className="fw_500 white-clr">Choose Account</Link>
+                <Link href="/how-it-works/choose-account" className="fw_500 white-clr">Get Capital Access</Link>
             </li>
             <li className="menu-link py-1">
                 <Link href="/how-it-works/evaluation" className="fw_500 white-clr">Pass Evaluation</Link>

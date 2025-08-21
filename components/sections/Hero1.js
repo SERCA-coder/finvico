@@ -44,7 +44,7 @@ export default function Hero1() {
                         </div>
                     </div>
                 </div>
-                {/* Hero Exprience box */}
+                {/* Hero Exprience box 
                 <div className="hero-expriencebox d-flex align-items-center">
                     <div className="expri-thumb">
                         <img src="/assets/img/banner/bn-expri.png" alt="img" />
@@ -62,7 +62,7 @@ export default function Hero1() {
                         </div>
                     </div>
                 </div>
-                {/* Element */}
+                 */}
                 <img src="/assets/img/element/arrow-right-storke.png" alt="img" className="hero-arrow" />
             </section>
         </>

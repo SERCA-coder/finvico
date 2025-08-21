@@ -20,7 +20,7 @@ export default function Sidebar({ isSidebar, handleSidebar }) {
                                     Address
                                 </span>
                                 <span className="textp">
-                                    Limassol, Cyprus
+                                    Sky Tower Office Building. HaMasger Street 35, Tel Aviv-Yafo
                                 </span>
                             </div>
                         </div>
@@ -40,7 +40,7 @@ export default function Sidebar({ isSidebar, handleSidebar }) {
                                     Call now
                                 </span>
                                 <Link href="/jasacript:void(0)" className="textp">
-                                    +357 25 123 456
+                                    +972 52‑549‑0816
                                 </Link>
                             </div>
                         </div>

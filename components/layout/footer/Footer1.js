@@ -52,19 +52,11 @@ export default function Footer1() {
                                             </Link>
                                         </li>
                                         <li>
-                                            <Link href="/account" className="d-flex align-items-center gap-2 flink-items pra-clr">
-                                                <span className="ani-icons">
-                                                    <i className="fas fa-angle-double-right pra-clr" />
-                                                </span>
-                                                Account Options
-                                            </Link>
-                                        </li>
-                                        <li>
                                             <Link href="/how-it-works/choose-account" className="d-flex align-items-center gap-2 flink-items pra-clr">
                                                 <span className="ani-icons">
                                                     <i className="fas fa-angle-double-right pra-clr" />
                                                 </span>
-                                                Choose Account
+                                                Grant Capital Access
                                             </Link>
                                         </li>
                                         <li>

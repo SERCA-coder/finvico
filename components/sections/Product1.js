@@ -21,43 +21,6 @@ export default function Product1() {
 There are no unrealistic promises — just clear terms, transparent rules, and the potential to earn based on performance.
                                     </p>
                                     <div className="discover-dating" data-aos="fade-up" data-aos-duration={2200}>
-                                        <div className="allyear d-flex align-items-center justify-content-between mb-xxl-4 mb-xl-3">
-                                            <h5 className="fw-medium theme-clr">
-                                                2023
-                                            </h5>
-                                            <h5 className="fw-medium theme-clr">
-                                                2024
-                                            </h5>
-                                            <h5 className="fw-medium theme-clr">
-                                                2025
-                                            </h5>
-                                        </div>
-                                        <div className="allyear-content d-flex justify-content-between">
-                                            <div className="allyear-item">
-                                                <h5 className="white-clr mb-xxl-3 mb-2">
-                                                    CySEC Licensed
-                                                </h5>
-                                                <span className="spantext-clr">
-                                                    Investment Firm #077/06
-                                                </span>
-                                            </div>
-                                            <div className="allyear-item">
-                                                <h5 className="white-clr mb-xxl-3 mb-2">
-                                                    Market Expansion
-                                                </h5>
-                                                <span className="spantext-clr">
-                                                    Global trading capabilities
-                                                </span>
-                                            </div>
-                                            <div className="allyear-item">
-                                                <h5 className="white-clr mb-xxl-3 mb-2">
-                                                    Industry Recognition
-                                                </h5>
-                                                <span className="spantext-clr">
-                                                    Top emerging markets firm
-                                                </span>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>

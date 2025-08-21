@@ -40,8 +40,8 @@ export default function Contact() {
                                 <div className="modern-contact-info text-center">
                                     <span className="contact-info-icon"><i className="fas fa-phone-alt"></i></span>
                                     <h5 className="white mt-xxl-7 mt-6 mb-xxl-7 mb-6">Phone &amp; Fax</h5>
-                                    <span className="msub d-block mb-2">Mobile : +357 22 123456</span>
-                                    <span className="msub">Fax : +357 22 654321</span>
+                                    <span className="msub d-block mb-2">Mobile : +972 52‑549‑0816</span>
+                                    <span className="msub">Fax : +972 52‑549‑0816</span>
                                 </div>
                             </div>
                             <div className="col-lg-3 col-md-6 col-sm-6" data-aos="zoom-in-right" data-aos-duration={1600}>
@@ -56,8 +56,8 @@ export default function Contact() {
                                 <div className="modern-contact-info text-center">
                                     <span className="contact-info-icon"><i className="fas fa-map-marker-alt"></i></span>
                                     <h5 className="white mt-xxl-7 mt-6 mb-xxl-7 mb-6">Our Location</h5>
-                                    <span className="msub d-block mb-2">Nicosia, Cyprus</span>
-                                    <span className="msub">Arch. Makariou III Ave 155</span>
+                                    <span className="msub d-block mb-2">Tel Aviv, Israeli</span>
+                                    <span className="msub">Sky Tower Office Building. HaMasger Street 35, Tel Aviv-Yafo</span>
                                 </div>
                             </div>
                             <div className="col-lg-3 col-md-6 col-sm-6" data-aos="zoom-in-right" data-aos-duration={2000}>
@@ -72,7 +72,7 @@ export default function Contact() {
                         <div className="row g-xxl-8 g-xl-6 g-4">
                             <div className="col-lg-6" data-aos="zoom-in" data-aos-duration={2000}>
                                 <div className="contact-map">
-                                    <iframe   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3123.145088503527!2d33.36787971557625!3d35.164776480320144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14de17a341d7c1af%3A0x6ee94eead6e6ac98!2sArch.%20Makariou%20III%20Ave%20155%2C%20Nicosia%2C%20Cyprus!5e0!3m2!1sen!2s!4v1691520000000!5m2!1sen!2s"/>
+                                    <iframe     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3351.123456789!2d34.78543!3d32.06455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x151d4b6a00000001%3A0xabcdef1234567890!2sSky%20Tower%2C%2035%20HaMasger%20St%2C%20Tel%20Aviv-Yafo!5e0!3m2!1sen!2sil!4v1699999999999!5m2!1sen!2sil"/>
                                 </div>
                             </div>
                             <div className="col-lg-6" data-aos="zoom-in" data-aos-duration={2000}>
